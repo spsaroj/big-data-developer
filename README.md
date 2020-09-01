@@ -25,7 +25,9 @@ My hometown is a small and beautiful city in Nepal called Baglung. In my free ti
 
 Few things that interests me are Data Science, Full Stack Web Development, Mobile Development, Machine Learning. I will be working on any of these fields in future.
 
-  
+## Skills
+- Git
+- Bash Scripting  
 
 ## Links
 
